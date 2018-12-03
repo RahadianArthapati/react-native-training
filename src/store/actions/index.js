@@ -1,0 +1,1 @@
+export { selectHeroes } from "./heroes";
